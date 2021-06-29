@@ -1,0 +1,16 @@
+C:\Users\ersin\OneDrive\Masaüstü\thread_in_motion_case_studies\bubble_sort\bin\Debug\net5.0\thread_in_motion_case_studies.exe
+C:\Users\ersin\OneDrive\Masaüstü\thread_in_motion_case_studies\bubble_sort\bin\Debug\net5.0\thread_in_motion_case_studies.deps.json
+C:\Users\ersin\OneDrive\Masaüstü\thread_in_motion_case_studies\bubble_sort\bin\Debug\net5.0\thread_in_motion_case_studies.runtimeconfig.json
+C:\Users\ersin\OneDrive\Masaüstü\thread_in_motion_case_studies\bubble_sort\bin\Debug\net5.0\thread_in_motion_case_studies.runtimeconfig.dev.json
+C:\Users\ersin\OneDrive\Masaüstü\thread_in_motion_case_studies\bubble_sort\bin\Debug\net5.0\thread_in_motion_case_studies.dll
+C:\Users\ersin\OneDrive\Masaüstü\thread_in_motion_case_studies\bubble_sort\bin\Debug\net5.0\ref\thread_in_motion_case_studies.dll
+C:\Users\ersin\OneDrive\Masaüstü\thread_in_motion_case_studies\bubble_sort\bin\Debug\net5.0\thread_in_motion_case_studies.pdb
+C:\Users\ersin\OneDrive\Masaüstü\thread_in_motion_case_studies\bubble_sort\obj\Debug\net5.0\thread_in_motion_case_studies.csproj.AssemblyReference.cache
+C:\Users\ersin\OneDrive\Masaüstü\thread_in_motion_case_studies\bubble_sort\obj\Debug\net5.0\thread_in_motion_case_studies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ersin\OneDrive\Masaüstü\thread_in_motion_case_studies\bubble_sort\obj\Debug\net5.0\thread_in_motion_case_studies.AssemblyInfoInputs.cache
+C:\Users\ersin\OneDrive\Masaüstü\thread_in_motion_case_studies\bubble_sort\obj\Debug\net5.0\thread_in_motion_case_studies.AssemblyInfo.cs
+C:\Users\ersin\OneDrive\Masaüstü\thread_in_motion_case_studies\bubble_sort\obj\Debug\net5.0\thread_in_motion_case_studies.csproj.CoreCompileInputs.cache
+C:\Users\ersin\OneDrive\Masaüstü\thread_in_motion_case_studies\bubble_sort\obj\Debug\net5.0\thread_in_motion_case_studies.dll
+C:\Users\ersin\OneDrive\Masaüstü\thread_in_motion_case_studies\bubble_sort\obj\Debug\net5.0\ref\thread_in_motion_case_studies.dll
+C:\Users\ersin\OneDrive\Masaüstü\thread_in_motion_case_studies\bubble_sort\obj\Debug\net5.0\thread_in_motion_case_studies.pdb
+C:\Users\ersin\OneDrive\Masaüstü\thread_in_motion_case_studies\bubble_sort\obj\Debug\net5.0\thread_in_motion_case_studies.genruntimeconfig.cache

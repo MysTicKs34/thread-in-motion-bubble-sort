@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ersin\\OneDrive\\Masaüstü\\thread_in_motion_case_studies\\thread_in_motion_case_studies.csproj",
+      "projectUniqueName": "C:\\Users\\ersin\\OneDrive\\Masaüstü\\thread_in_motion_case_studies\\bubble_sort\\thread_in_motion_case_studies.csproj",
       "projectName": "thread_in_motion_case_studies",
-      "projectPath": "C:\\Users\\ersin\\OneDrive\\Masaüstü\\thread_in_motion_case_studies\\thread_in_motion_case_studies.csproj",
+      "projectPath": "C:\\Users\\ersin\\OneDrive\\Masaüstü\\thread_in_motion_case_studies\\bubble_sort\\thread_in_motion_case_studies.csproj",
       "packagesPath": "C:\\Users\\ersin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ersin\\OneDrive\\Masaüstü\\thread_in_motion_case_studies\\obj\\",
+      "outputPath": "C:\\Users\\ersin\\OneDrive\\Masaüstü\\thread_in_motion_case_studies\\bubble_sort\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

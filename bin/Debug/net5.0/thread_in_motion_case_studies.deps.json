@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "thread_in_motion_case_studies/1.0.0": {
+        "runtime": {
+          "thread_in_motion_case_studies.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "thread_in_motion_case_studies/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
