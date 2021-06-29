@@ -27,7 +27,7 @@ namespace thread_in_motion_case_studies
 
         public static void Main()
         {
-            int[] arr = { 11, 93, 45, 98, 13, 55 }; 
+            int[] arr = { 11, 93, 45, 98, 13, 55 };
             BubbleSort(arr);
             Console.WriteLine("Sorted array");
             PrintArray(arr);
